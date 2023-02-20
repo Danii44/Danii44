@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Danish Ahmad - aka Danii44</title>
+	
 </head>
 <body>
 	<h1>Hi there, I'm Danish Ahmad - aka Danii44 👋</h1>
@@ -25,25 +25,25 @@
 	<p>If you'd like to get in touch, feel free to reach out to me via email at danishahmad444@gmail.com.</p>
 	<h2>Projects</h2>
 	<ul>
-		<li><a href="#">Project 1</a></li>
-		<li><a href="https://toastpunkgenesis.com/">Project 1</a></li>
-    <li><a href="https://garrisdirect.com/">Project 2</a></li>
-    <li><a href="https://toastpunk.com/">Project 3</a></li>
-    <li><a href="https://octagonrobot.space/">Project 4</a></li>
-    <li><a href="https://theshieldcoin.com/">Project 5</a></li>
-    <li><a href="https://vampbros.io/">Project 6</a></li>
-    <li><a href="https://happyscoops.io/">Project 7</a></li>
-    <li><a href="http://athletedomains.io/">Project 8</a></li>
-    <li><a href="https://rbmc.io/">Project 9</a></li>
-    <li><a href="https://giganft.io/">Project 10</a></li>
-    <li><a href="https://doodleheroes.io/">Project 11</a></li>
-    <li><a href="http://businessworldclub.com/">Project 12</a></li>
-    <li><a href="https://supersharksquadnft.com/">Project 13</a></li>
-    <li><a href="https://peacefamilynft.com/">Project 14</a></li>
-    <li><a href="https://www.irishoracle.gg/">Project 15</a></li>
-    <li><a href="https://nftipsproject.com/">Project 16</a></li>
-    <li><a href="https://chubbyprimates.com/">Project 17</a></li>
-    <li><a href="https://bedtimecreations.io/">Project 18</a></li>
+		
+	<li><a href="https://toastpunkgenesis.com/">toastpunkgenesis</a></li>
+    <li><a href="https://garrisdirect.com/">garrisdirect</a></li>
+    <li><a href="https://toastpunk.com/">toastpunk</a></li>
+    <li><a href="https://octagonrobot.space/">octagonrobot</a></li>
+    <li><a href="https://theshieldcoin.com/">theshieldcoin</a></li>
+    <li><a href="https://vampbros.io/">vampbros</a></li>
+    <li><a href="https://happyscoops.io/">happyscoops</a></li>
+    <li><a href="http://athletedomains.io/">athletedomains</a></li>
+    <li><a href="https://rbmc.io/">rbmc</a></li>
+    <li><a href="https://giganft.io/">giganft</a></li>
+    <li><a href="https://doodleheroes.io/">doodleheroes</a></li>
+    <li><a href="http://businessworldclub.com/">businessworldclub</a></li>
+    <li><a href="https://supersharksquadnft.com/">supersharksquadnft</a></li>
+    <li><a href="https://peacefamilynft.com/">peacefamilynft</a></li>
+    <li><a href="https://www.irishoracle.gg/">irishoracle</a></li>
+    <li><a href="https://nftipsproject.com/">nftipsproject</a></li>
+    <li><a href="https://chubbyprimates.com/">chubbyprimates</a></li>
+    <li><a href="https://bedtimecreations.io/">bedtimecreations</a></li>
 
 	</ul>
 	<p>Thank you for taking the time to check out my profile! I'm excited to collaborate with others and contribute to innovative projects.</p>
