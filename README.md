@@ -25,26 +25,24 @@
 	<p>If you'd like to get in touch, feel free to reach out to me via email at danishahmad444@gmail.com.</p>
 	<h2>Projects</h2>
 	<ul>
-		
 	<li><a href="https://toastpunkgenesis.com/">toastpunkgenesis</a></li>
-    <li><a href="https://garrisdirect.com/">garrisdirect</a></li>
-    <li><a href="https://toastpunk.com/">toastpunk</a></li>
-    <li><a href="https://octagonrobot.space/">octagonrobot</a></li>
-    <li><a href="https://theshieldcoin.com/">theshieldcoin</a></li>
-    <li><a href="https://vampbros.io/">vampbros</a></li>
-    <li><a href="https://happyscoops.io/">happyscoops</a></li>
-    <li><a href="http://athletedomains.io/">athletedomains</a></li>
-    <li><a href="https://rbmc.io/">rbmc</a></li>
-    <li><a href="https://giganft.io/">giganft</a></li>
-    <li><a href="https://doodleheroes.io/">doodleheroes</a></li>
-    <li><a href="http://businessworldclub.com/">businessworldclub</a></li>
-    <li><a href="https://supersharksquadnft.com/">supersharksquadnft</a></li>
-    <li><a href="https://peacefamilynft.com/">peacefamilynft</a></li>
-    <li><a href="https://www.irishoracle.gg/">irishoracle</a></li>
-    <li><a href="https://nftipsproject.com/">nftipsproject</a></li>
-    <li><a href="https://chubbyprimates.com/">chubbyprimates</a></li>
-    <li><a href="https://bedtimecreations.io/">bedtimecreations</a></li>
-
+	    <li><a href="https://garrisdirect.com/">garrisdirect</a></li>
+	    <li><a href="https://toastpunk.com/">toastpunk</a></li>
+	    <li><a href="https://octagonrobot.space/">octagonrobot</a></li>
+	    <li><a href="https://theshieldcoin.com/">theshieldcoin</a></li>
+	    <li><a href="https://vampbros.io/">vampbros</a></li>
+	    <li><a href="https://happyscoops.io/">happyscoops</a></li>
+	    <li><a href="http://athletedomains.io/">athletedomains</a></li>
+	    <li><a href="https://rbmc.io/">rbmc</a></li>
+	    <li><a href="https://giganft.io/">giganft</a></li>
+	    <li><a href="https://doodleheroes.io/">doodleheroes</a></li>
+	    <li><a href="http://businessworldclub.com/">businessworldclub</a></li>
+	    <li><a href="https://supersharksquadnft.com/">supersharksquadnft</a></li>
+	    <li><a href="https://peacefamilynft.com/">peacefamilynft</a></li>
+	    <li><a href="https://www.irishoracle.gg/">irishoracle</a></li>
+	    <li><a href="https://nftipsproject.com/">nftipsproject</a></li>
+	    <li><a href="https://chubbyprimates.com/">chubbyprimates</a></li>
+	    <li><a href="https://bedtimecreations.io/">bedtimecreations</a></li>
 	</ul>
 	<p>Thank you for taking the time to check out my profile! I'm excited to collaborate with others and contribute to innovative projects.</p>
 </body>
