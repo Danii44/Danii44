@@ -1,31 +1,66 @@
 <!DOCTYPE html>
 <html>
 <head>
-	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Danish Ahmad | Full-Stack Software Engineer & Game Developer</title>
 </head>
 <body>
 	<h1>Hi there, I'm Danish Ahmad - aka Danii44 👋</h1>
-	<h2>About Me</h2>
-	<p>I am a passionate software developer with experience in game development, Android applications, React Native, Flutter, web development, React JS, and web3.0. I love working on innovative projects that push the boundaries of what's possible with technology.</p>
-	<h2>What I'm Currently Doing</h2>
-	<p>I am currently focusing on web development, particularly in React JS and web3.0, to expand my skills in these areas. I also specialize in minting websites for NFTs and have experience in creating platforms for artists to showcase and sell their work.</p>
-	<h2>Skills and Expertise</h2>
+	<p>A highly passionate and versatile **Full-Stack Software Engineer** specializing in cutting-edge web technologies, scalable application architecture, and robust cross-platform development. I thrive on translating complex requirements into efficient, intelligent, and user-centric solutions.</p>
+	
+	<hr>
+
+	<h2>👨‍💻 Core Expertise & Current Focus</h2>
+	<p>My work is centered around delivering robust solutions across the entire software stack. I am currently concentrating on building **AI-Powered Websites** and **Scalable Full-Stack Applications** (React JS & Node.js), integrating machine learning for intelligent features and personalization.</p>
+	
+	<p>My extensive background includes expertise in:</p>
 	<ul>
-		<li>Game development</li>
-		<li>Software development</li>
-		<li>Android applications</li>
-		<li>React Native</li>
-		<li>Flutter</li>
-		<li>Web development</li>
-		<li>React JS</li>
-		<li>Web3.0</li>
-		<li>NFT minting websites</li>
+		<li>**Full-Stack Development (React/Node.js):** Architecting and deploying high-traffic, production-ready web applications.</li>
+		<li>**Mobile & Cross-Platform Development (React Native, Flutter, Android):** Building native-quality, performance-optimized mobile apps.</li>
+		<li>**Game Development:** Applying a strong foundation in system architecture, rendering pipelines, and optimization gained from creating 2D/3D prototypes and core gameplay mechanics.</li>
+		<li>**Blockchain/Decentralized Technology:** Expertise in building custom **NFT Minting Platforms** and utilizing decentralized web infrastructure.</li>
 	</ul>
-	<h2>How to Reach Me</h2>
-	<p>If you'd like to get in touch, feel free to reach out to me via email at danishahmad444@gmail.com.</p>
-	<h2>Projects</h2>
+	
+	<hr>
+
+	<h2>✨ Professional Experience Highlights</h2>
+	<p>I have a proven track record of delivering successful projects, often acting as the lead developer from concept to deployment. Key accomplishments include:</p>
 	<ul>
-	<li><a href="https://toastpunkgenesis.com/">toastpunkgenesis</a></li>
+		<li>**Delivering** over 15 high-performance, custom-themed websites for the **NFT and Decentralized Finance (DeFi) space**, handling high-volume transactions and secure user authentication.</li>
+		<li>**Developing and deploying** scalable **Full-Stack web applications** utilizing the MERN stack (MongoDB, Express, React, Node) for various business needs.</li>
+		<li>**Optimizing** application performance across mobile and web platforms, resulting in faster load times and improved user retention.</li>
+		<li>**Collaborating** with artists and marketing teams to create platforms that successfully showcase and commercialize digital assets.</li>
+	</ul>
+	
+	<hr>
+
+	<h2>🛠️ Technical Skills</h2>
+	<p>A comprehensive overview of my technical stack:</p>
+	<ul>
+		<li>**Frontend:** React JS, Redux, Next.js, HTML5, CSS3 (Tailwind/Bootstrap)</li>
+		<li>**Backend:** Node.js, Express, RESTful APIs, Python</li>
+		<li>**Mobile:** React Native, Flutter, Native Android Development (Java/Kotlin)</li>
+		<li>**Database:** SQL, NoSQL (MongoDB, PostgreSQL)</li>
+		<li>**Emerging Tech:** AI/ML Integration, Blockchain/Web3.0 Concepts, Smart Contracts (Solidity - conceptual)</li>
+		<li>**Development Tools:** Git/GitHub, Docker (Basic), CI/CD Concepts</li>
+	</ul>
+	
+	<hr>
+
+	<h2>🎓 Education & Certifications</h2>
+	<p>*(Replace this with your actual education and relevant technical certifications)*</p>
+	<ul>
+		<li>[Your Degree/Field of Study] - [University Name]</li>
+		<li>[Relevant Certification Name] - [Issuing Authority]</li>
+	</ul>
+
+	<hr>
+
+	<h2>🔗 Select Projects Portfolio</h2>
+	<p>A selection of projects demonstrating my versatility and technical execution:</p>
+	<ul>
+	    <li><a href="https://toastpunkgenesis.com/">toastpunkgenesis</a></li>
 	    <li><a href="https://garrisdirect.com/">garrisdirect</a></li>
 	    <li><a href="https://toastpunk.com/">toastpunk</a></li>
 	    <li><a href="https://octagonrobot.space/">octagonrobot</a></li>
@@ -44,6 +79,13 @@
 	    <li><a href="https://chubbyprimates.com/">chubbyprimates</a></li>
 	    <li><a href="https://bedtimecreations.io/">bedtimecreations</a></li>
 	</ul>
-	<p>Thank you for taking the time to check out my profile! I'm excited to collaborate with others and contribute to innovative projects.</p>
+	
+	<hr>
+
+	<h2>📧 Connect with Me</h2>
+	<p>I am actively seeking opportunities for impactful collaboration and full-time roles in software engineering. Let's connect!</p>
+	<p><strong>Email: danishahmad444@gmail.com</strong></p>
+	
+	<p>Thank you for reviewing my profile!</p>
 </body>
 </html>
