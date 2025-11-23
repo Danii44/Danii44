@@ -8,12 +8,9 @@
 <body>
 	<h1>Hi there, I'm Danish Ahmad - aka Danii44 👋</h1>
 	<p>A highly passionate and versatile **Full-Stack Software Engineer** specializing in cutting-edge web technologies, scalable application architecture, and robust cross-platform development. I thrive on translating complex requirements into efficient, intelligent, and user-centric solutions.</p>
-	
 	<hr>
-
 	<h2>👨‍💻 Core Expertise & Current Focus</h2>
 	<p>My work is centered around delivering robust solutions across the entire software stack. I am currently concentrating on building **AI-Powered Websites** and **Scalable Full-Stack Applications** (React JS & Node.js), integrating machine learning for intelligent features and personalization.</p>
-	
 	<p>My extensive background includes expertise in:</p>
 	<ul>
 		<li>**Full-Stack Development (React/Node.js):** Architecting and deploying high-traffic, production-ready web applications.</li>
@@ -21,9 +18,7 @@
 		<li>**Game Development:** Applying a strong foundation in system architecture, rendering pipelines, and optimization gained from creating 2D/3D prototypes and core gameplay mechanics.</li>
 		<li>**Blockchain/Decentralized Technology:** Expertise in building custom **NFT Minting Platforms** and utilizing decentralized web infrastructure.</li>
 	</ul>
-	
 	<hr>
-
 	<h2>✨ Professional Experience Highlights</h2>
 	<p>I have a proven track record of delivering successful projects, often acting as the lead developer from concept to deployment. Key accomplishments include:</p>
 	<ul>
@@ -32,9 +27,7 @@
 		<li>**Optimizing** application performance across mobile and web platforms, resulting in faster load times and improved user retention.</li>
 		<li>**Collaborating** with artists and marketing teams to create platforms that successfully showcase and commercialize digital assets.</li>
 	</ul>
-	
 	<hr>
-
 	<h2>🛠️ Technical Skills</h2>
 	<p>A comprehensive overview of my technical stack:</p>
 	<ul>
@@ -45,18 +38,14 @@
 		<li>**Emerging Tech:** AI/ML Integration, Blockchain/Web3.0 Concepts, Smart Contracts (Solidity - conceptual)</li>
 		<li>**Development Tools:** Git/GitHub, Docker (Basic), CI/CD Concepts</li>
 	</ul>
-	
 	<hr>
-
 	<h2>🎓 Education & Certifications</h2>
 	<p>*(Replace this with your actual education and relevant technical certifications)*</p>
 	<ul>
 		<li>[Your Degree/Field of Study] - [University Name]</li>
 		<li>[Relevant Certification Name] - [Issuing Authority]</li>
 	</ul>
-
 	<hr>
-
 	<h2>🔗 Select Projects Portfolio</h2>
 	<p>A selection of projects demonstrating my versatility and technical execution:</p>
 	<ul>
@@ -79,13 +68,10 @@
 	    <li><a href="https://chubbyprimates.com/">chubbyprimates</a></li>
 	    <li><a href="https://bedtimecreations.io/">bedtimecreations</a></li>
 	</ul>
-	
 	<hr>
-
 	<h2>📧 Connect with Me</h2>
 	<p>I am actively seeking opportunities for impactful collaboration and full-time roles in software engineering. Let's connect!</p>
 	<p><strong>Email: danishahmad444@gmail.com</strong></p>
-	
 	<p>Thank you for reviewing my profile!</p>
 </body>
 </html>
