@@ -1,95 +1,226 @@
-# Hi there, I'm Danish Ahmad - aka Danii44 👋
+# 👋 Hi, I'm Danish Ahmad
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Danii44&style=flat-square&color=blue" alt="Profile views">
-  <img src="https://img.shields.io/github/followers/Danii44?style=social" alt="GitHub followers">
+### Full-Stack Developer • AI • SaaS • Modern Web Applications
+
+I build **modern, responsive and production-ready web applications** — from business websites and SaaS platforms to AI-powered tools, dashboards, APIs and mobile applications.
+
+I enjoy turning ideas into clean, scalable and user-friendly products.
+
+<p align="left">
+  <a href="https://danishahmad.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/danishahmad444">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.fiverr.com/danishahmad44">
+    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
 </p>
 
-A highly passionate and versatile **Full-Stack Software Engineer** specializing in cutting-edge web technologies, scalable application architecture, and robust cross-platform development. I thrive on translating complex requirements into efficient, intelligent, and user-centric solutions.
+---
+
+## 🚀 What I Build
+
+* 🌐 Modern business websites & landing pages
+* ⚡ Full-stack web applications
+* 🤖 AI-powered websites & business assistants
+* 📊 SaaS platforms & admin dashboards
+* 🛒 E-commerce applications
+* 📱 Cross-platform mobile applications
+* 🔌 REST APIs & backend systems
+* 🎨 Interactive 3D websites
+* ⚙️ Business automation tools
+* 🔗 Web3 / blockchain applications
 
 ---
 
-## 💡 Core Expertise & Current Focus
+## 🧠 Current Focus
 
-My work is centered around delivering robust solutions across the entire software stack. I am currently concentrating on building **AI-Powered Websites** and **Scalable Full-Stack Applications** (React JS & Node.js), integrating machine learning for intelligent features and personalization.
+I'm currently focused on building **modern AI-powered and full-stack applications** with great UX, scalable architecture and real-world business use cases.
 
-### I bring experience in:
-
-- **Full-Stack Development (React/Node.js):** Architecting and deploying high-traffic, production-ready web applications.
-- **AI/ML Integration:** Implementing intelligent features for personalization and data-driven insights.
-- **Mobile & Cross-Platform Development:** Building native-quality apps with **React Native** and **Flutter**.
-- **Game Development:** Applying a strong foundation in system architecture, rendering, and optimization.
-- **Blockchain/Decentralized Technology:** Expertise in secure, custom **NFT Minting Platforms**.
+```text
+AI + SaaS + Full-Stack + Automation + Modern UI
+```
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Frontend** | `React JS` • `Redux` • `Next.js` • `HTML5` • `CSS3` |
-| **Backend** | `Node.js` • `Express` • `Python` • `RESTful APIs` |
-| **Mobile** | `React Native` • `Flutter` • `Native Android (Java/Kotlin)` |
-| **Database** | `MongoDB` • `PostgreSQL` • `SQL/NoSQL` |
-| **DevOps/Tools**| `Git/GitHub` • `Docker` • `CI/CD Concepts` |
-| **Emerging Tech**| `AI/ML Integration` • `Blockchain/Web3 Concepts` |
-
-### Badges:
+### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,redux,bootstrap,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel" />
+</p>
+
+### Database & Backend Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase,firebase" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio" />
+</p>
+
+### 3D / Animation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs" />
+</p>
+
+**Also working with:**
+
+`GSAP` • `ScrollTrigger` • `Anime.js` • `WebGL` • `GLB/GLTF`
+
+### Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode" />
 </p>
 
 ---
 
-## ✨ Professional Experience Highlights
+## ⭐ Featured Projects
 
-I have a proven track record of delivering successful projects, often acting as the lead developer from concept to deployment.
+### 🌐 Modern Web Applications
 
-- **Architected and Delivered** over 15 high-performance, custom-themed websites for the NFT and DeFi space, handling high-volume transactions.
-- **Developed and deployed** scalable Full-Stack web applications utilizing the MERN stack for diverse business requirements.
-- **Optimized** application performance across mobile and web platforms, resulting in faster load times and improved user retention metrics.
-- **Drove** complex features from ideation through deployment, demonstrating strong project ownership and technical leadership.
+Building responsive and interactive websites focused on performance, usability and modern UI/UX.
 
----
-
-## 🌐 Select Projects Portfolio
-
-Here is a look at some impactful projects showcasing my versatility and technical execution:
-
-| Project | URL | Focus |
-| :--- | :--- | :--- |
-| **toastpunkgenesis** | [https://toastpunkgenesis.com/](https://toastpunkgenesis.com/) | NFT Minting Platform |
-| **garrisdirect** | [https://garrisdirect.com/](https://garrisdirect.com/) | E-commerce / Web Portal |
-| **vampbros** | [https://vampbros.io/](https://vampbros.io/) | Decentralized Application |
-| **octagonrobot** | [https://octagonrobot.space/](https://octagonrobot.space/) | Custom Web Integration |
-| **giganft** | [https://giganft.io/](https://giganft.io/) | High-Performance Minting Site |
-| *...and many more on my profile!* | | |
+**Stack:** React • Next.js • Vite • JavaScript • TypeScript • GSAP • Three.js
 
 ---
 
-## 📈 GitHub Stats
+### 🤖 AI Business Tools
+
+AI-powered tools designed to help businesses automate support, answer customer questions and improve workflows.
+
+**Stack:** React • Next.js • Node.js • APIs • AI
+
+---
+
+### 📊 SaaS Applications
+
+Dashboard-driven applications with authentication, databases, user management and business workflows.
+
+**Stack:** Next.js • React • Node.js • PostgreSQL • Supabase
+
+---
+
+### 📱 Mobile Applications
+
+Cross-platform mobile experiences using modern mobile development frameworks.
+
+**Stack:** React Native • Flutter
+
+---
+
+### 🔗 Web3 Applications
+
+Earlier in my development journey, I worked extensively with blockchain, NFT minting platforms and decentralized applications.
+
+**Stack:** React • JavaScript • TypeScript • Web3 • NFT Platforms
+
+---
+
+## 💼 Development Experience
+
+I work across the complete development lifecycle:
+
+```text
+Idea
+  ↓
+UI / UX
+  ↓
+Frontend
+  ↓
+Backend & APIs
+  ↓
+Database
+  ↓
+Authentication
+  ↓
+Testing
+  ↓
+Deployment
+  ↓
+Maintenance
+```
+
+I can take a project from **concept → development → deployment**.
+
+---
+
+## 🎯 What I Care About
+
+* ✨ Clean and modern UI
+* 📱 Responsive design
+* ⚡ Performance
+* 🔐 Security
+* 🧩 Maintainable architecture
+* ♻️ Reusable components
+* 🔌 Reliable APIs
+* 🚀 Scalable applications
+* 🤖 Practical AI integration
+* 🧠 Great user experience
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danii44&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Danish Ahmad's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Danii44&show_icons=true&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danii44&layout=compact&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Danii44&hide_border=true" />
 </p>
 
 ---
 
-## 📧 Connect with Me
+## 🌱 Currently Learning & Exploring
 
-I am actively seeking opportunities for impactful collaboration and full-time roles in software engineering. Let's connect!
+* Artificial Intelligence
+* AI Agents & AI integrations
+* SaaS architecture
+* Advanced Next.js
+* 3D Web Experiences
+* WebGL / Three.js
+* Business automation
+* Cloud deployment
+* Scalable backend architecture
 
-- **Email:** danishahmad444@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/danishahmad444](https://www.linkedin.com/in/danishahmad444)
-- **Instagram:** [https://www.instagram.com/danish_ahmad44](https://www.instagram.com/danish_ahmad44)
-- **My website:** [Danishahmad](https://danishahmad.netlify.app/)
+---
 
-<br>
-<p align="center">
-  Thanks for stopping by! Let's build something great. 🚀
+## 🤝 Let's Build Something
+
+Have an idea for a website, SaaS product, AI tool or custom application?
+
+**Let's turn it into a real product.**
+
+<p>
+  <a href="https://danishahmad.netlify.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/danishahmad444">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="mailto:danishahmad444@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge" />
+  </a>
 </p>
+
+---
+
+### ⚡ `Build • Ship • Improve`
+
+Thanks for visiting my profile! 🚀
