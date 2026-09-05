@@ -1,226 +1,105 @@
-# 👋 Hi, I'm Danish Ahmad
+<div align="center">
 
-### Full-Stack Developer • AI • SaaS • Modern Web Applications
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&lines=Hey%2C+I'm+Danish+Ahmad+%F0%9F%91%8B;Full-Stack+Developer+%7C+IncoreLab+Founder;Building+AI+%26+SaaS+Products;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Python" alt="Typing SVG" />
 
-I build **modern, responsive and production-ready web applications** — from business websites and SaaS platforms to AI-powered tools, dashboards, APIs and mobile applications.
+<br/>
 
-I enjoy turning ideas into clean, scalable and user-friendly products.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://danishahmad.netlify.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danishahmad444)&nbsp;
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/danishahmad44)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishahmad444@gmail.com)
 
-<p align="left">
-  <a href="https://danishahmad.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/danishahmad444">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.fiverr.com/danishahmad44">
-    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🚀 What I Build
+## 👨‍💻 About Me
 
-* 🌐 Modern business websites & landing pages
-* ⚡ Full-stack web applications
-* 🤖 AI-powered websites & business assistants
-* 📊 SaaS platforms & admin dashboards
-* 🛒 E-commerce applications
-* 📱 Cross-platform mobile applications
-* 🔌 REST APIs & backend systems
-* 🎨 Interactive 3D websites
-* ⚙️ Business automation tools
-* 🔗 Web3 / blockchain applications
+I'm a **Full-Stack Developer** and founder of **IncoreLab** — a software agency delivering web apps, SaaS platforms, AI-powered tools, and mobile applications for clients worldwide.
 
----
+I take projects from **idea → design → development → deployment** with clean architecture and real-world business focus.
 
-## 🧠 Current Focus
-
-I'm currently focused on building **modern AI-powered and full-stack applications** with great UX, scalable architecture and real-world business use cases.
-
-```text
-AI + SaaS + Full-Stack + Automation + Modern UI
+```
+Current focus: AI Agents • Advanced Next.js • 3D Web • SaaS Architecture
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+**Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,redux,bootstrap,tailwind" />
-</p>
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,redux,tailwind,bootstrap)](https://skillicons.dev)
 
-### Backend
+**Backend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel" />
-</p>
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,python,php,laravel)](https://skillicons.dev)
 
-### Database & Backend Services
+**Database & Services**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase,firebase" />
-</p>
+[![DB Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase,firebase)](https://skillicons.dev)
 
-### Mobile
+**Mobile**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio" />
-</p>
+[![Mobile Skills](https://skillicons.dev/icons?i=react,flutter,androidstudio)](https://skillicons.dev)
 
-### 3D / Animation
+**3D & Animation**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=threejs" />
-</p>
+[![3D Skills](https://skillicons.dev/icons?i=threejs)](https://skillicons.dev)&nbsp; `GSAP` &nbsp;`ScrollTrigger` &nbsp;`Anime.js` &nbsp;`WebGL`
 
-**Also working with:**
+**Tools & Deployment**
 
-`GSAP` • `ScrollTrigger` • `Anime.js` • `WebGL` • `GLB/GLTF`
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode)](https://skillicons.dev)
 
-### Tools & Deployment
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode" />
-</p>
+## 🚀 What I Build
+
+| Domain | Examples |
+|--------|----------|
+| 🌐 **Modern Web Apps** | Business sites, landing pages, interactive 3D experiences |
+| 🤖 **AI-Powered Tools** | Business assistants, automation workflows, AI integrations |
+| 📊 **SaaS Platforms** | Dashboards, auth systems, subscription flows, admin panels |
+| 🛒 **E-Commerce** | Full-stack stores, payment gateways, inventory systems |
+| 📱 **Mobile Apps** | Cross-platform apps with React Native & Flutter |
+| 🔌 **APIs & Backend** | REST APIs, database design, third-party integrations |
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🌐 Modern Web Applications
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [PureSoulNFT](https://github.com/Danii44/PureSoulNFT) | NFT minting platform with wallet connect | React • Web3 • Solana |
+| [8bitpurrs](https://github.com/Danii44/8bitpurrs) | 8-bit NFT collection UI & minting | TypeScript • Next.js |
+| [Portfolio](https://danishahmad.netlify.app) | Personal site with 3D elements | Next.js • Three.js • GSAP |
 
-Building responsive and interactive websites focused on performance, usability and modern UI/UX.
-
-**Stack:** React • Next.js • Vite • JavaScript • TypeScript • GSAP • Three.js
-
----
-
-### 🤖 AI Business Tools
-
-AI-powered tools designed to help businesses automate support, answer customer questions and improve workflows.
-
-**Stack:** React • Next.js • Node.js • APIs • AI
+> 🔒 Most client work lives in private repos — [portfolio](https://danishahmad.netlify.app) has case studies.
 
 ---
 
-### 📊 SaaS Applications
+## 📈 GitHub Stats
 
-Dashboard-driven applications with authentication, databases, user management and business workflows.
+<div align="center">
 
-**Stack:** Next.js • React • Node.js • PostgreSQL • Supabase
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Danii44&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danii44&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" />
 
----
+<br/>
 
-### 📱 Mobile Applications
+[![GitHub Streak](https://streak-stats.demolab.com?user=Danii44&hide_border=true&theme=github-dark-blue&background=0d1117)](https://git.io/streak-stats)
 
-Cross-platform mobile experiences using modern mobile development frameworks.
-
-**Stack:** React Native • Flutter
-
----
-
-### 🔗 Web3 Applications
-
-Earlier in my development journey, I worked extensively with blockchain, NFT minting platforms and decentralized applications.
-
-**Stack:** React • JavaScript • TypeScript • Web3 • NFT Platforms
+</div>
 
 ---
 
-## 💼 Development Experience
+<div align="center">
 
-I work across the complete development lifecycle:
+**Have a project in mind? Let's build it.**
 
-```text
-Idea
-  ↓
-UI / UX
-  ↓
-Frontend
-  ↓
-Backend & APIs
-  ↓
-Database
-  ↓
-Authentication
-  ↓
-Testing
-  ↓
-Deployment
-  ↓
-Maintenance
-```
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-danishahmad.netlify.app-111827?style=for-the-badge)](https://danishahmad.netlify.app)&nbsp;
+[![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-danishahmad444%40gmail.com-EA4335?style=for-the-badge)](mailto:danishahmad444@gmail.com)
 
-I can take a project from **concept → development → deployment**.
+⚡ **`Build • Ship • Improve`**
 
----
-
-## 🎯 What I Care About
-
-* ✨ Clean and modern UI
-* 📱 Responsive design
-* ⚡ Performance
-* 🔐 Security
-* 🧩 Maintainable architecture
-* ♻️ Reusable components
-* 🔌 Reliable APIs
-* 🚀 Scalable applications
-* 🤖 Practical AI integration
-* 🧠 Great user experience
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danii44&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danii44&layout=compact&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Danii44&hide_border=true" />
-</p>
-
----
-
-## 🌱 Currently Learning & Exploring
-
-* Artificial Intelligence
-* AI Agents & AI integrations
-* SaaS architecture
-* Advanced Next.js
-* 3D Web Experiences
-* WebGL / Three.js
-* Business automation
-* Cloud deployment
-* Scalable backend architecture
-
----
-
-## 🤝 Let's Build Something
-
-Have an idea for a website, SaaS product, AI tool or custom application?
-
-**Let's turn it into a real product.**
-
-<p>
-  <a href="https://danishahmad.netlify.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/danishahmad444">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" />
-  </a>
-  <a href="mailto:danishahmad444@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-### ⚡ `Build • Ship • Improve`
-
-Thanks for visiting my profile! 🚀
+</div>
